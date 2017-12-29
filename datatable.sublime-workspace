@@ -1,0 +1,552 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"PDO",
+				"PDO::FETCH_ASSOC"
+			],
+			[
+				"PHP",
+				"PHP_EOL〔constant〕"
+			],
+			[
+				"c",
+				"css/"
+			],
+			[
+				"datatable",
+				"dataTables.bootstrap.min.js"
+			],
+			[
+				"scr",
+				"script\t<script>"
+			],
+			[
+				"a",
+				"a\t<a href=\"mailto:\"> "
+			],
+			[
+				"link",
+				"links\tlink - stylesheet"
+			],
+			[
+				"dest",
+				"dest_mac"
+			],
+			[
+				"ether",
+				"ethertype〔variable〕"
+			],
+			[
+				"el",
+				"elif\telif"
+			],
+			[
+				"get",
+				"get_mac_addres〔function〕"
+			],
+			[
+				"sys",
+				"system〔function〕"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"img",
+				"img-responsive \tBootstrap 3 Class"
+			],
+			[
+				"strto",
+				"strtotime〔function〕"
+			],
+			[
+				"fecha",
+				"$fecha_inicio〔variable〕"
+			],
+			[
+				"fech_",
+				"$fech_temp〔variable〕"
+			],
+			[
+				"asiste",
+				"$asistenciaGeneral〔variable〕"
+			],
+			[
+				"fi",
+				"findaba\tYii Model findAllByAttributes"
+			],
+			[
+				"json",
+				"json_encode〔function〕"
+			],
+			[
+				"bg-",
+				"bg-danger \tBootstrap 3 Class"
+			],
+			[
+				"find",
+				"findByAttributes"
+			],
+			[
+				"repe",
+				"$repetidos〔variable〕"
+			],
+			[
+				"fec",
+				"fecha_captura"
+			],
+			[
+				"event",
+				"$eventovinculado〔variable〕"
+			],
+			[
+				"even",
+				"$eventosCongreso〔variable〕"
+			],
+			[
+				"Even",
+				"Evento〔class〕"
+			],
+			[
+				"id_",
+				"id_congreso"
+			],
+			[
+				"strt",
+				"strtotime〔function〕"
+			],
+			[
+				"Asiste",
+				"AsistenciaCongreso"
+			],
+			[
+				"pu",
+				"pull-right \tBootstrap 3 Class"
+			],
+			[
+				"registr",
+				"registros"
+			],
+			[
+				"table",
+				"table-striped \tBootstrap 3 Class"
+			],
+			[
+				"table-",
+				"table-hover \tBootstrap 3 Class"
+			],
+			[
+				"Lista",
+				"ListaAsistenciaFecha〔class〕"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"asis",
+				"$asistentesPorFecha〔variable〕"
+			],
+			[
+				"rend",
+				"renderPartial"
+			],
+			[
+				"eve",
+				"eventosCongreso"
+			],
+			[
+				"id",
+				"id_evento"
+			],
+			[
+				"findab",
+				"findaba\tYii Model findAllByAttributes"
+			],
+			[
+				"coun",
+				"count〔function〕"
+			],
+			[
+				"fge",
+				"fgetcsv〔function〕"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"L",
+				"ListaAsistencia::model"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "datos.php",
+			"settings":
+			{
+				"buffer_size": 447,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1122,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "core.js",
+			"settings":
+			{
+				"buffer_size": 1235,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 260.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 636.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/srv/http/datatables"
+	],
+	"file_history":
+	[
+		"/home/cebox/Escritorio/datatable/index.html",
+		"/srv/http/datatables/main.py",
+		"/srv/http/datatables/index.html",
+		"/srv/http/datatables/datos.php",
+		"/home/cebox/Escritorio/personas.sql",
+		"/srv/http/phpaecel/primero/test.php",
+		"/srv/http/phpaecel/primero/index.html",
+		"/home/cebox/Escritorio/signature.htm",
+		"/home/cebox/Escritorio/prueba-1.py",
+		"/home/cebox/Escritorio/01simple.xlsx",
+		"/srv/http/phpaecel/primero/vendor/autoload.php",
+		"/home/cebox/cucei6/SRYPC/snif/sniffer/main.py",
+		"/home/cebox/cucei6/SRYPC/snif/sniffer/snifer.sublime-project",
+		"/home/cebox/cucei6/SRYPC/snif/sniffer/snifer.sublime-workspace",
+		"/home/cebox/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+		"/home/cebox/.config/sublime-text-3/Packages/Terminality/Terminality.sublime-settings",
+		"/home/cebox/cucei6/SRYPC/snif/sniffer/LICENSE",
+		"/srv/http/yii2base/views/layouts/main.php",
+		"/srv/http/public_html/smart/protected/controllers/ListaAsistenciaController.php",
+		"/home/cebox/gpoascen/respaldo bd/listaAsistenciaFecha-Fechas cargadas mias.sql",
+		"/home/cebox/gpoascen/respaldo bd/listaAsistenciaFecha-F.sql",
+		"/srv/http/public_html/smart/protected/models/FechaEvento.php",
+		"/srv/http/public_html/smart/protected/views/reporteador/asistencia.php",
+		"/srv/http/public_html/smart/protected/controllers/ReporteadorController.php",
+		"/srv/http/public_html/smart/protected/views/listaAsistencia/createcsv.php",
+		"/srv/http/public_html/smart/protected/models/ListaAsistenciaCongreso.php",
+		"/srv/http/test/procesar.php",
+		"/run/media/cebox/BigStorage/gpoascen/respaldo bd/listaAsistenciaFecha-Fechas cargadas mias.sql",
+		"/srv/http/public_html/smart/protected/models/ListaAsistenciaFecha.php",
+		"/srv/http/public_html/smart/protected/models/AsistenciaPorFecha.php",
+		"/srv/http/public_html/smart/protected/models/Evento.php",
+		"/srv/http/public_html/smart/protected/models/AsistenciaCongreso.php",
+		"/srv/http/public_html/smart/protected/controllers/VcongresoController.php",
+		"/srv/http/public_html/smart/protected/views/congreso/listarregistradosfecha.php",
+		"/srv/http/public_html/smart/protected/views/reporteador/congreso.php",
+		"/srv/http/public_html/smart/protected/views/reporteador/Rvendedor.php",
+		"/srv/http/public_html/smart/protected/views/reporteador/indexRVendedor.php",
+		"/srv/http/public_html/smart/themes/admin-lte/views/layouts/column2.php",
+		"/home/cebox/.config/mate/panel2.d/default/launchers/opera-1.desktop",
+		"/home/cebox/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/srv/http/public_html/smart/protected/views/listaAsistencia/indexCongreso.php",
+		"/home/cebox/gpoascen/listaAsistenciaFecha-miCapturaDeAsistencias.sql",
+		"/home/cebox/gpoascen/respaldos smart/post-vcongreso/listaAsistenciaFecha-asistenciatalleres.sql",
+		"/home/cebox/gpoascen/asistentes_evento_congreso_fecha.sql",
+		"/home/cebox/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/srv/http/public_html/smart/protected/views/reporteador/indexasistencia.php",
+		"/srv/http/public_html/smart/protected/views/reporteador/index.php",
+		"/srv/http/public_html/smart/protected/views/congreso/listeventosasistencia.php",
+		"/srv/http/public_html/smart/protected/views/congreso/listeventos.php",
+		"/srv/http/public_html/smart/readme.md",
+		"/home/cebox/.config/sublime-text-3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/srv/http/public_html/smart/protected/views/listaAsistencia/_formcsv.php",
+		"/srv/http/test/index.html",
+		"/srv/http/public_html/smart/protected/views/listaAsistencia/create.php",
+		"/home/cebox/test.html",
+		"/home/cebox/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "datos.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								351,
+								351
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								744,
+								744
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"word_wrap": false
+						},
+						"translation.x": 13.0,
+						"translation.y": 153.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "core.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1235,
+								1235
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 461.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "datatable.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

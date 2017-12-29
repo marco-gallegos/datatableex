@@ -1,0 +1,17 @@
+{
+    "name": "cebox/datatables",
+    "description": "una prueba de datatables",
+    "type": "project",
+    "license": "gpl-v3",
+    "authors": [
+        {
+            "name": "Marco A. Gallegos",
+            "email": "ma_galeza@hotmail.com"
+        }
+    ],
+    "require": {
+        "datatables/datatables": "^1.10",
+        "components/jquery": "^3.2",
+        "components/bootstrap": "^3.3"
+    }
+}
